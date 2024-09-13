@@ -1,5 +1,5 @@
-# WindowsFormsApp12
-# Windows Forms Timer Örneği
+
+# Timer 
 
 Bu, bir zamanlayıcı kullanımını gösteren basit bir C# Windows Forms uygulamasıdır. Uygulama 60 saniyeden geri sayar ve kalan süreyi bir ilerleme çubuğu ve etiket ile günceller. Ayrıca, bir düğmenin arka plan rengi, mevcut saniyenin tek mi yoksa çift mi olduğuna bağlı olarak değişir.
 
